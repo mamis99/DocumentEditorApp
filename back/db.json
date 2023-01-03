@@ -1,0 +1,16 @@
+{
+    "users":[
+        {
+            "id": 1,
+            "name": "Isaac Martínez",
+            "username": "imartinez@akubica.com",
+            "password": "12345"
+        },
+        {
+            "id": 2,
+            "name": "Octavio Peña",
+            "username": "opena@akubica.com",
+            "password": "54321"
+        }
+    ]
+}
